@@ -1,0 +1,7 @@
+Level      Name               Score    Walltoggle
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hard      awef                28386   1
+Hard      Peter               65748   1
+Hard      peter               29752   0
+1337      sawefawef           21574   0
+1337      w                   62947   0
